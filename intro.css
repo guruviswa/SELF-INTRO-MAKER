@@ -1,0 +1,54 @@
+pre{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    margin-top: 170px;
+   font-weight: bolder;
+   font-size: xx-large; 
+    margin-left: 400px;
+    color:blanchedalmond;
+}
+#p1{
+    position: absolute;
+    margin-top: 370PX;
+    margin-left: 200px;
+    font-size:larger;
+    color:#868E34;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+marquee{
+    position: absolute;
+    color:antiquewhite;
+}
+
+.ph{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 550px;
+color: antiquewhite;
+}
+.mail{
+    color:blanchedalmond;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 900px;
+}
+.name{
+    color: beige;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 100px;
+}
+button{
+    position: absolute;
+    margin-top: 280px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 600px;
+   text-decoration: none;
+   height: 60px;
+   border: solid 1px black;
+   border-radius: 20px;
+   background-color: aqua;
+}
+body{
+    background-color: #204D70;
+}
